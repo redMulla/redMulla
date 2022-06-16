@@ -48,7 +48,7 @@
 ---
 
 <img align="left" alt="redMulla's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=redMulla&show_icons=true&hide_border=true" />
-
+<br />
 <img align="left" alt="redMulla's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redMulla&layout=compact" />
 
 [website]: https://redmulla.github.io/Portfolio
