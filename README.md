@@ -7,7 +7,7 @@
 - 👀 I’m interested in learning and making an impact in my society
 - 🌱 I’m currently learning PERN __Full-stack Web development__ 🤣
 - 👯 I’m looking to collaborate on any website or web app project that can help me improve my skill
-- 🥅 2022 Goals: Grow my skills and get a job.
+- 🥅 2023 Goals: Grow my skills.
 - ⚡ Fun fact: I love to rap, read and listen to music
 - 📫 How to reach me ivassillycharite@gmail.com
 
