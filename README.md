@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any website or web app project that can help me improve my skill
 - 🥅 2023 Goals: Grow my skills.
 - ⚡ Fun fact: I love to rap, read and listen to music
-- 📫 How to reach me ivassillycharite@gmail.com
+- 📫 How to reach me vassilly@exec.com
 
 ### Connect with me:
 
