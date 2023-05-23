@@ -5,11 +5,11 @@
 
 - 👋 Hi, I’m @redMulla
 - 👀 I’m interested in learning and making an impact in my society
-- 🌱 I’m currently learning PERN __Full-stack Web development__ 🤣
+- 🌱 I’m currently learning PERN/MERN __Full-stack Web development__ 🤣
 - 👯 I’m looking to collaborate on any website or web app project that can help me improve my skill
 - 🥅 2023 Goals: Grow my skills.
 - ⚡ Fun fact: I love to rap, read and listen to music
-- 📫 How to reach me vassilly@exec.com
+- 📫 How to reach me vassilly@exec.bi
 
 ### Connect with me:
 
