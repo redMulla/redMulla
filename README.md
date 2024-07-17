@@ -7,8 +7,8 @@
 - 👀 I’m interested in learning and making an impact in my society
 - 🌱 I’m currently learning PERN/MERN __Full-stack Web development__ 🤣
 - 👯 I’m looking to collaborate on any website or web app project that can help me improve my skill
-- 🥅 2024 Goals: Make more 💵💰.
-- ⚡ Fun fact: I love to rap, read and listen to music
+- 🥅 2024 Goals: Learn More; Make more 💵💰.
+- ⚡ Fun fact: I love to rap, read and listening to music
 - 📫 How to reach me vassilly@exec.bi
 
 ### Connect with me:
