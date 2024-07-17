@@ -41,7 +41,7 @@
 [<img align="left" alt="MongoDb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://redmulla.github.io/Portfolio#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://redmulla.github.io/Portfolio#gh-dark-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="[./img/terminal-dark.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain-wordmark.svg)" />][website]
+[<img align="left" alt="Graphql" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain-wordmark.svg" />][website]
 
 
 <br />
