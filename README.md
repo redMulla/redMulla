@@ -42,6 +42,7 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://redmulla.github.io/Portfolio#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://redmulla.github.io/Portfolio#gh-dark-mode-only)
 [<img align="left" alt="Graphql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />][website]
+[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />][website]
 
 
 <br />
