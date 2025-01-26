@@ -59,7 +59,7 @@
 <br />
 <img align="left" alt="redMulla's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redMulla&layout=compact" />
 
-[website]: https://redmulla.github.io/Portfolio
+[website]: https://my-portfolio-iota-two-46.vercel.app/
 <!---
 redMulla/redMulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
