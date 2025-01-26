@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]([https://redmulla.github.io/Portfolio](https://my-portfolio-iota-two-46.vercel.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)]([https://redmulla.github.io/Portfolio](https://my-portfolio-iota-two-46.vercel.app/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://my-portfolio-iota-two-46.vercel.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://my-portfolio-iota-two-46.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Vassilly3#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Vassilly3#gh-dark-mode-only)
