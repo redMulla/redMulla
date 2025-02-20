@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @redMulla
 - 👀 I’m interested in learning and making an impact in my society
-- 🌱 I’m currently learning PERN/MERN __Full-stack Web development__ 🤣
+- 🌱 I’m currently a PERN/MERN __Full-stack development__ 🤣
 - 👯 I’m looking to collaborate on any website or web app project that can help me improve my skill
 - 🥅 2025 Goals: Become a better Freelancer 💵💰.
 - ⚡ Fun fact: I love to rap, read, and listening to music
