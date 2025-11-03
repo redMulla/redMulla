@@ -47,17 +47,17 @@
 
 <br />
 <br />
-## My committters.top rank 👇
-
-[![committers.top badge](https://user-badge.committers.top/uae_private/redMulla.svg)](https://user-badge.committers.top/burundi_private/redMulla)
-
----
 
 <img align="left" alt="redMulla's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=redMulla&show_icons=true&hide_border=true" />
 <br />
 <img align="left" alt="redMulla's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redMulla&layout=compact" />
 
 [website]: https://my-portfolio-iota-two-46.vercel.app/
+## My committters.top rank 👇
+
+[![committers.top badge](https://user-badge.committers.top/uae_private/redMulla.svg)](https://user-badge.committers.top/burundi_private/redMulla)
+
+---
 <!---
 redMulla/redMulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
