@@ -51,9 +51,9 @@
 ## My committters.top rank 👇
 
 [![committers.top badge](https://user-badge.committers.top/uae_private/redMulla.svg)](https://user-badge.committers.top/burundi_private/redMulla)
--->
 
 ---
+-->
 
 <img align="left" alt="redMulla's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=redMulla&show_icons=true&hide_border=true" />
 <br />
