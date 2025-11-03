@@ -50,7 +50,7 @@
 
 ## My committters.top rank 👇
 
-[![committers.top badge](https://user-badge.committers.top/burundi_private/redMulla.svg)](https://user-badge.committers.top/burundi_private/redMulla)
+[![committers.top badge](https://user-badge.committers.top/uae_private/redMulla.svg)](https://user-badge.committers.top/burundi_private/redMulla)
 
 
 ---
